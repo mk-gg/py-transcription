@@ -1,0 +1,19 @@
+# Core dependencies
+numpy>=1.21.0
+sounddevice>=0.4.5
+openai-whisper>=20231117
+dearpygui>=1.10.0
+librosa>=0.10.0
+
+# Optional dependencies for better audio processing
+scipy>=1.9.0
+numba>=0.56.0
+
+# Development and logging
+setuptools>=65.0.0
+wheel>=0.37.0
+
+# Platform-specific audio dependencies (install as needed)
+# Windows: No additional requirements (uses built-in WASAPI)
+# macOS: portaudio via homebrew recommended
+# Linux: python3-pyaudio, portaudio19-dev, or pipewire-pulse
