@@ -11,10 +11,7 @@ A Python application for real-time audio transcription using OpenAI's Whisper mo
 
 - 🎤 **Real-time system audio capture** - Transcribe audio from any application
 - 🧠 **Multiple Whisper models** - Choose between speed and accuracy
-- 💾 **Session management** - Start, pause, resume, and save transcriptions
 - 💿 **Export functionality** - Save transcriptions to text files
-
-
 
 ## Installation
 
